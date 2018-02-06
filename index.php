@@ -1,4 +1,6 @@
- public function makeThumbnails($updir, $img)
+<?php 
+
+public function makeThumbnails($updir, $img)
     {
         // 150 or whatever you like for size
  
